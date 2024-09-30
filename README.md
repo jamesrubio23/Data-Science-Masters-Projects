@@ -10,3 +10,5 @@ While doing a masters in Data Science I did some programs with the school and by
 4. Studying Anomalies in the Stock Market
 
 5. Disneyland Reviews (Using BertTopic and PylDavis)
+
+6. Gurobi Optimization Route (Pollution of Madrid 2017)
